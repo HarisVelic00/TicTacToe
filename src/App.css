@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #efefef;
+  background-image: linear-gradient(#55b1e2, #f099e8);
+  font-family: 'Fredoka', sans-serif;
+}
